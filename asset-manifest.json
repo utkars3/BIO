@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5fff695a.css",
+    "main.js": "/Portfolio/static/js/main.2f221e0c.js",
+    "static/media/icoder.png": "/Portfolio/static/media/icoder.283404f32714da18063a.png",
+    "static/media/newspic.png": "/Portfolio/static/media/newspic.145969574aae0cfda764.png",
+    "static/media/tictactoe.png": "/Portfolio/static/media/tictactoe.abf28a5a73ec9a33e1dd.png",
+    "static/media/clock.png": "/Portfolio/static/media/clock.66e0cf1e541b5dc8bf96.png",
+    "static/media/textutil.png": "/Portfolio/static/media/textutil.238c714b1d4e0a5a633e.png",
+    "static/media/todolistpic.png": "/Portfolio/static/media/todolistpic.d145eacda160479c4d1c.png",
+    "static/media/calculatorpic.png": "/Portfolio/static/media/calculatorpic.60dd21fb13161d950602.png",
+    "static/media/inotebook.png": "/Portfolio/static/media/inotebook.96b75fda30e02499fbb4.png",
+    "static/media/imageabt.jpeg": "/Portfolio/static/media/imageabt.83bb3a8f46e5bed9e24b.jpeg",
+    "static/media/preview1.png": "/Portfolio/static/media/preview1.c2996a722254e75428cc.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.2c50f703cbe48b22edc8.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.5fff695a.css.map": "/Portfolio/static/css/main.5fff695a.css.map",
+    "main.2f221e0c.js.map": "/Portfolio/static/js/main.2f221e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fff695a.css",
+    "static/js/main.2f221e0c.js"
+  ]
+}
