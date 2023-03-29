@@ -35,9 +35,9 @@ const Testimonials = () => {
          
         </div>
         <h5 className='client__name'>Ernest Achieveer</h5>
-          <small className='client__review'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae libero perferendis magnam vitae incidunt enim molestiae reprehenderit praesentium maiores dicta sunt distinctio, hic eius nostrum, excepturi iure adipisci ipsa explicabo.</small>
+          <small className='client__review'>No clients yet</small>
       </SwiperSlide>
-      <SwiperSlide className="testimonial">
+      {/* <SwiperSlide className="testimonial">
         <div className="client__avatar">
           <img src={ME} alt="" />
          
@@ -52,7 +52,7 @@ const Testimonials = () => {
         </div>
         <h5 className='client__name'>Ernest Achieveer</h5>
           <small className='client__review'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae libero perferendis magnam vitae incidunt enim molestiae reprehenderit praesentium maiores dicta sunt distinctio, hic eius nostrum, excepturi iure adipisci ipsa explicabo.</small>
-      </SwiperSlide>
+      </SwiperSlide> */}
      </Swiper>
     </section>
   )
