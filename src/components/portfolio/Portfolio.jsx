@@ -1,6 +1,5 @@
 import React from "react";
 import "./portfolio.css";
-import IM from "../../assets/imageabt.jpeg";
 import News from "../../assets/newspic.png";
 import Todolist from "../../assets/todolistpic.png";
 import Calculator from "../../assets/calculatorpic.png";
@@ -11,12 +10,6 @@ import Tictactoe from "../../assets/tictactoe.png";
 import Inotebook from "../../assets/inotebook.png";
 
 
-// const data=[
-// {
-// }
-// ]
-
-//do this part again after creating link and their demo link and photos
 
 const Portfolio = () => {
   return (
@@ -33,7 +26,7 @@ const Portfolio = () => {
           </div>
           <h3>Newsapp</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/Newsapp" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/Newsapp" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -53,7 +46,7 @@ const Portfolio = () => {
           </div>
           <h3>To Do List</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/Todolist" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/Todolist" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -73,7 +66,7 @@ const Portfolio = () => {
           </div>
           <h3>Calculator</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/Calculator" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/Calculator" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -93,7 +86,7 @@ const Portfolio = () => {
           </div>
           <h3>Textutil</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/Textutils" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/Textutils" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -113,7 +106,7 @@ const Portfolio = () => {
           </div>
           <h3>Clock</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/Clock" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/Clock" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -133,7 +126,7 @@ const Portfolio = () => {
           </div>
           <h3>iCoder</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/iCoder-bootstrap" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/iCoder-bootstrap" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -153,7 +146,7 @@ const Portfolio = () => {
           </div>
           <h3>Tic Tac Toe</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/tic-tac-toe" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/tic-tac-toe" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
@@ -173,7 +166,7 @@ const Portfolio = () => {
           </div>
           <h3>iNotebook</h3>
          <div className="portfolio__item-cta">
-         <a href="https://github.com/utkars3/inotebook" className="btn" target="_blank">
+         <a href="https://github.com/utkars3/inotebook" className="btn" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           {/* <a
